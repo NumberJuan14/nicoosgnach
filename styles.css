@@ -853,7 +853,7 @@ b{
         
         margin: auto;
         
-        padding: 2% 2% !important;
+        padding: 2% 4% 2% 2% !important;
     }
     .boxed-6{
         
@@ -898,12 +898,9 @@ b{
         width: 220px;
     }
 
-    /*.extra-imglg{
-        left: 24%;
-        top: 550%;
-        
-        width: 55%;
-    }*/
+    .extra-imglg{
+        width: 236px;
+    }
 
     .extra-imgcs{
         width: 224px;
