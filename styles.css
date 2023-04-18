@@ -129,14 +129,14 @@ p{
 .SCROLL{
     color: #fff;
     text-underline-position: below;
-    padding: 5% 10% 0% 10%;
+    padding: 2% 10% 0% 10%;
     text-decoration: underline;
 }
 
 .big-heading{
     font-size: 7rem !important;
     color: #38b6ff;
-    padding: 5% 0% 0% 10%;
+    padding: 15% 0% 0% 10%;
     z-index: 1;
     position: relative;
 }
