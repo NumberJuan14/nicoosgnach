@@ -1,1 +1,1 @@
-# nicoosgnach
+# This Nicolas Osgnach's personal website, detailing his education, training, extracurriculars, awards, projects, and forms of contact. This website was the final product of a self-study course his senior year, in which he chose web-development, learning about the background, innder workings, design, features, versatility, and coding behind a website in order to build one of his own froms scratch with the use of HTML, CSS, and Javascript.
